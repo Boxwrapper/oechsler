@@ -4,6 +4,7 @@
 
 # ci systems
 .travis.yml
+.github
 
 # dependencies
 node_modules
